@@ -385,3 +385,4 @@ split(separator):
 Splits a string into an array of substrings based on a specified separator (which can be a regular expression).
 toLowerCase() and toUpperCase():
 Convert the string to all lowercase or all uppercase letters, respectively.
+
